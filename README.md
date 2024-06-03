@@ -10,7 +10,6 @@ Can calculate:
 + For the Week Business Days (Mon-Fri)
 + For the Weekend Days
 
-<br />
 ### Setup guide
 - Clone or Download source code
 - Open using **Visual Studo Code**
