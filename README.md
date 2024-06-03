@@ -1,5 +1,5 @@
 # Business-Profit-Calculator
-An online business profit calculator.
+A Python script for an online business profit calculator.
 
 Can calculate:
 + For specific Days
